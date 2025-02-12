@@ -23,6 +23,10 @@ A feature-rich, WhatsApp Web-inspired chat application built with **Rust** (back
   - Search messages and chats.
   - Filter by date, media type, and more.
 
+- **Articles**
+  - Space for writers.
+  - Articles can stay forever until writer suspends it
+
 ### Fancy Features
 - **Ghost Messaging**: Send messages to anonymous like-minded people anonymously. Chats ghost chats dissapear when app is closed/logged out
 - **Scheduled Messaging**: Schedule messages to be sent at a later time once or at an interval.
